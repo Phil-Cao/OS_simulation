@@ -11,11 +11,6 @@
   6. 使用qt进行windows桌面应用开发
   7. 采用优先级调度算法，实现抢占式和非抢占式两种效果
   8. 实现最适应分配算法
-* 实现效果如下：
-
-
-<img width="600" height="317" src="https://github.com/FaithMai/ImageHosting/raw/master/other/simulationOS.gif"></img>
-
 
 * 逻辑设计
 
